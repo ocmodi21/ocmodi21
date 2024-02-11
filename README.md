@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A highly motivated and results-oriented software developer with a passion for creating innovative and user-friendly applications. Proven ability to design, develop, and implement software solutions across a variety of platforms. Expertise in React, React Native, Typescript, JavaScript, Tailwind CSS and HTML. Strong problem-solving and analytical skills with a demonstrated ability to work independently and as part of a team.
 
 * 🌍  I'm based in Gujrat, India.
-* 🖥️  See my portfolio at [My Website](http://linktr.ee/ocmodi21)
+* 🖥️  See my portfolio at [My Website](https://ocmodi21.vercel.app/)
 * ✉️  You can contact me at [ocmodi2117@gmail.com](mailto:ocmodi2117@gmail.com)
 * 🤝  I'm open to collaborating on ReactJs or React Native Project.
 
