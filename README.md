@@ -8,7 +8,7 @@ I’ve completed three software development internships, focusing on full-stack 
 * 🌍  I'm based in Gujrat, India.
 * 🖥️  See my portfolio at [My Website](https://ocmodi21.vercel.app/)
 * ✉️  You can contact me at [ocmodi2117@gmail.com](mailto:ocmodi2117@gmail.com)
-* 🤝  I'm open to collaborating on ReactJs or React Native Project.
+* 🤝  I'm open to collaborating on Frontend, Backend or Full-Stack Project.
 
 ### Skills
 
